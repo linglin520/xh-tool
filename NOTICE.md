@@ -12,6 +12,8 @@ xh Tool 为独立玩家工具，与 DJMAX RESPECT V 及相关服务官方无隶�
 - AndroidX / Jetpack Compose、Kotlin / kotlinx.coroutines / kotlinx.serialization、OkHttp、Coil 等依赖按各自许可使用，主要为 Apache-2.0；应用内关于页保留来源入口。
 - [SoreHait / djmax_bests_generate](https://github.com/SoreHait/djmax_bests_generate)：段位徽章、星级与达成图案，MIT，许可全文如下，亦随 APK 内置保留。
 
+详情页的成就徽标为参考素材的AI复原图，不是官方原始高清素材；游戏相关图形的权利仍属于相应权利人。
+
 第三方组件、素材和服务资料保留各自权利与许可，不因应用自有代码采用 MIT 而被重新授权。AndroidX DataStore 所含 Protobuf 使用 BSD-3-Clause，Google 版权与许可随 APK 保留。应用“关于 → 许可与版权”可离线阅读应用 MIT、第三方声明、SoreHait MIT、Apache-2.0 与 Protobuf BSD-3-Clause 全文。
 
 MIT License
