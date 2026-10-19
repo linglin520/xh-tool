@@ -2,7 +2,7 @@
 
 xh Tool 自有代码采用 [MIT License](LICENSE)，Copyright (c) 2026 鳕烩。
 
-xh Tool 为独立玩家工具，与 DJMAX RESPECT V 及相关服务官方无隶属关系。游戏名称、曲绘及其他商标与素材的权利属于各自权利人。成绩、分层与价格等第三方信息仅供参考，以对应来源为准。
+xh Tool 为独立玩家工具，与 DJMAX RESPECT V、osu! 及相关服务官方无隶属关系。游戏名称、曲绘及其他商标与素材的权利属于各自权利人。成绩、分层与价格等第三方信息仅供参考，以对应来源为准。
 
 - [V-ARCHIVE](https://v-archive.net/)：曲库、曲绘、成绩与分层资料。
 - [EZ2PATTERN](https://ez2pattern.kr/)：曲名对照与谱面补充资料。
@@ -37,3 +37,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+## osu!mania 谱面分析
+
+osu! 是 ppy Pty Ltd 的商标；xh Tool 与 ppy 及下列项目无隶属或背书关系。难度估计仅供参考，第三方许可不因应用MIT而改变。
+
+- [ManiaMapAnalyser](https://github.com/LeoBlackMT/osumania_map_analyser)：谱面分析算法与计算资源，MIT，Copyright (c) 2026 Leo_Black。
+- [ONNX Runtime](https://github.com/microsoft/onnxruntime)：模型运行时，MIT，Copyright (c) Microsoft Corporation。
+- [Etterna / MinaCalc](https://github.com/etternagame/etterna)：难度计算，MIT。
+- 上游算法参考项目包括 [Sunny Rework](https://github.com/sunnyxxy/Star-Rating-Rebirth)、[Interlude](https://github.com/YAVSRG/YAVSRG)、[Daniel](https://thebagelofman.github.io/Daniel/)、[Companella](https://github.com/Leinadix/companella) 和 [DanielEtterna](https://github.com/JoseMGS3/DanielEtterna)，按各自权利与授权提供。输入与信息排布参考 [osu!mania toolkit](https://github.com/LeoBlackMT/nonebot-plugin-osumania-toolkit)，未使用其代码。
+
+相关声明与MIT许可全文随APK保留，可在应用内第三方许可页面离线阅读。
