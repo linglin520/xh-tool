@@ -53,5 +53,5 @@ osu! 是 ppy Pty Ltd 的商标；xh Tool 与 ppy 及下列项目无隶属或背�
 ## osu!界面资源与保留的预览组件
 
 - osu! Logo、四模式图标和Mods图标来自[ppy/osu-resources](https://github.com/ppy/osu-resources/tree/2dd67f9ba7db3c968aee12a7a965255b023d3554)，原始PNG未修改，界面有主题着色；按[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)保留归属，商标不代表官方背书。
-- 安装包保留未开放入口的预览组件：replayviewer-js 1.0.0、fflate 0.8.2 / 0.8.3和lzma 2.3.2采用MIT；@soundtouchjs/core 2.1.0相关未修改源码采用MPL-2.0，可免费从[对应版本源码](https://github.com/cutterbl/SoundTouchJS/tree/906a76c860e575ca2df555708db01eb11915949c/packages/core/src)获取。完整许可与具体来源随APK离线提供。
+- 谱面预览使用：replayviewer-js 1.0.0、fflate 0.8.2 / 0.8.3和lzma 2.3.2采用MIT；@soundtouchjs/core 2.1.0相关未修改源码采用MPL-2.0，可免费从[对应版本源码](https://github.com/cutterbl/SoundTouchJS/tree/906a76c860e575ca2df555708db01eb11915949c/packages/core/src)获取。完整许可与具体来源随APK离线提供。
 - 用户谱面、曲绘和皮肤属于各自作者，不适用应用MIT；在线信息来自osu!官方API及对应作者，按来源权利提供。
