@@ -55,3 +55,9 @@ osu! 是 ppy Pty Ltd 的商标；xh Tool 与 ppy 及下列项目无隶属或背�
 - osu! Logo、四模式图标和Mods图标来自[ppy/osu-resources](https://github.com/ppy/osu-resources/tree/2dd67f9ba7db3c968aee12a7a965255b023d3554)，原始PNG未修改，界面有主题着色；按[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)保留归属，商标不代表官方背书。
 - 谱面预览使用：replayviewer-js 1.0.0、fflate 0.8.2 / 0.8.3和lzma 2.3.2采用MIT；@soundtouchjs/core 2.1.0相关未修改源码采用MPL-2.0，可免费从[对应版本源码](https://github.com/cutterbl/SoundTouchJS/tree/906a76c860e575ca2df555708db01eb11915949c/packages/core/src)获取。完整许可与具体来源随APK离线提供。
 - 用户谱面、曲绘和皮肤属于各自作者，不适用应用MIT；在线信息来自osu!官方API及对应作者，按来源权利提供。
+
+## mania 默认精简皮肤与音频适配
+
+mania 默认预览使用 Rurudo 5.1 - xh Tool Mania Lite，原皮肤 Rurudo 5.1，作者 LN_Yonya，来源为用户提供的皮肤文件。仅保留 Tap、长条、透明按键占位及左侧常驻人物，8张 PNG 原字节未修改；只精简配置和文件范围。图像权利归相应作者，应用 MIT 不覆盖这些素材；作者、来源与原包摘要随内置精简皮肤的 NOTICE.txt 保留。用户仍可导入自己的皮肤。
+
+Android 0.2.3 对 MIT 许可的 replayviewer-js 1.0.0 仅增加 AudioSync 音乐缓冲切换接口，供预览保持音调 / 变调使用；SoundTouch Worker 及其中 MPL-2.0 模块未修改，免费源码地址和随包许可继续保留。未附带原大体积皮肤、额外音乐或上游示例谱包。
