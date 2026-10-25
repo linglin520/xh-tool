@@ -61,3 +61,9 @@ osu! 是 ppy Pty Ltd 的商标；xh Tool 与 ppy 及下列项目无隶属或背�
 mania 默认预览使用 Rurudo 5.1 - xh Tool Mania Lite，原皮肤 Rurudo 5.1，作者 LN_Yonya，来源为用户提供的皮肤文件。仅保留 Tap、长条、透明按键占位及左侧常驻人物，8张 PNG 原字节未修改；只精简配置和文件范围。图像权利归相应作者，应用 MIT 不覆盖这些素材；作者、来源与原包摘要随内置精简皮肤的 NOTICE.txt 保留。用户仍可导入自己的皮肤。
 
 Android 0.2.3 对 MIT 许可的 replayviewer-js 1.0.0 仅增加 AudioSync 音乐缓冲切换接口，供预览保持音调 / 变调使用；SoundTouch Worker 及其中 MPL-2.0 模块未修改，免费源码地址和随包许可继续保留。未附带原大体积皮肤、额外音乐或上游示例谱包。
+
+## Android 0.2.4 音频与长条优化
+
+Android音乐改用系统MediaPlayer流式播放；replayviewer-js的MIT派生引擎增加nativeMusic音频跳过路径、mania Tap / 长条 / 灯光范围索引、列素材与可见长条绘制优化。皮肤原PNG像素与各自权利保持，应用MIT不覆盖游戏素材。
+
+保留的SoundTouch Worker中FifoSampleBuffer使用兼容Float32Array扩容，MPL-2.0与原作者版权继续保留。修改后的可编辑源码免费随APK assets/licenses/osu/FifoSampleBuffer-S109.ts.txt提供，原始来源为 https://github.com/cutterbl/SoundTouchJS/tree/906a76c860e575ca2df555708db01eb11915949c/packages/core/src 。时间伸缩DSP算法和其他MPL模块不改，原Worker与完整许可仍随包提供。
