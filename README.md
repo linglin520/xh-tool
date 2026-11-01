@@ -232,3 +232,8 @@ xh Tool 自有代码采用 [MIT License](LICENSE)，© 2026 鳕烩；第三方�
 
 xh Tool 是玩家工具，与游戏官方没有隶属关系。问题可通过 [GitHub Issues](https://github.com/linglin520/xh-tool/issues) 或 [CNB 宜休](https://cnb.cool/linglin520/xh-tool/-/issues) 反馈；请勿公开查询 Token、Client Secret 等私人资料。
 
+## iOS 下载
+
+现提供 [0.2.13/build23 未签名 IPA](https://cnb.cool/linglin520/xh-tool/-/releases/tag/v0.2.13)，也可在 [GitHub 同版本发行页](https://github.com/linglin520/xh-tool/releases/tag/v0.2.13) 下载。包内声明最低 iOS 15.0，需要自行签名安装，不能像 APK 一样直接安装；实际兼容性以设备体验为准。安装提示及独立摘要随发行附件提供，本次没有重新编译或进行设备安装验证。
+
+Android 用户继续选择原 APK，应用内更新入口保持。
