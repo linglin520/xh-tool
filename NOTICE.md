@@ -67,3 +67,8 @@ Android 0.2.3 对 MIT 许可的 replayviewer-js 1.0.0 仅增加 AudioSync 音乐
 Android音乐改用系统MediaPlayer流式播放；replayviewer-js的MIT派生引擎增加nativeMusic音频跳过路径、mania Tap / 长条 / 灯光范围索引、列素材与可见长条绘制优化。皮肤原PNG像素与各自权利保持，应用MIT不覆盖游戏素材。
 
 保留的SoundTouch Worker中FifoSampleBuffer使用兼容Float32Array扩容，MPL-2.0与原作者版权继续保留。修改后的可编辑源码免费随APK assets/licenses/osu/FifoSampleBuffer-S109.ts.txt提供，原始来源为 https://github.com/cutterbl/SoundTouchJS/tree/906a76c860e575ca2df555708db01eb11915949c/packages/core/src 。时间伸缩DSP算法和其他MPL模块不改，原Worker与完整许可仍随包提供。
+
+
+## 白金档案（PLATiNA :: LAB）
+
+白金档案适配参考 nonebot_plugin_platina_b50 1.12.1（MIT），完整插件许可随应用提供。曲库信息、曲绘、试听、头像、名牌、段位图标和游戏面板素材的权利归游戏及各素材原权利人，插件 MIT 许可不重新授权这些素材。
