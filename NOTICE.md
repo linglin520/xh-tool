@@ -72,3 +72,7 @@ Android音乐改用系统MediaPlayer流式播放；replayviewer-js的MIT派生�
 ## 白金档案（PLATiNA :: LAB）
 
 白金档案适配参考 nonebot_plugin_platina_b50 1.12.1（MIT），完整插件许可随应用提供。曲库信息、曲绘、试听、头像、名牌、段位图标和游戏面板素材的权利归游戏及各素材原权利人，插件 MIT 许可不重新授权这些素材。
+
+## 白金档案本机 B50 绘图
+
+复用 nonebot_plugin_platina_b50 的 MIT 绘图实现。Python、Pillow、FreeType、libjpeg及绘图字体的许可与来源随 APK 的“关于 → 许可与版权”离线提供；游戏图像权利归原作者，应用 MIT 不覆盖素材。原模板及字体保留，增加 xh Tool 品牌落款。
