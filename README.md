@@ -1372,7 +1372,7 @@ xh Tool 是玩家工具，与游戏官方没有隶属关系。问题可通过 [G
 
 
 
-[官网](https://tool.xhhbot.com/#download)提供最新版Android APK和iOS0.2.14未签名IPA，可直接下载；iOS需自行签名安装。
+[官网](https://tool.xhhbot.com/#download)提供最新版Android APK和iOS 0.2.15 未签名 IPA，可直接下载；iOS需自行签名安装。
 
 
 
@@ -1388,7 +1388,7 @@ xh Tool 是玩家工具，与游戏官方没有隶属关系。问题可通过 [G
 
 
 
-现提供 [0.2.13/build23 未签名 IPA](https://cnb.cool/linglin520/xh-tool/-/releases/tag/v0.2.13)，也可在 [GitHub 同版本发行页](https://github.com/linglin520/xh-tool/releases/tag/v0.2.13) 下载。包内声明最低 iOS 15.0，需要自行签名安装，不能像 APK 一样直接安装；实际兼容性以设备体验为准。安装提示及独立摘要随发行附件提供，本次没有重新编译或进行设备安装验证。
+[官网下载 iOS 0.2.15（构建 25）](https://tool.xhhbot.com/#download)。IPA 需要自行签名，官网同时提供安装说明与 SHA256 摘要。
 
 
 

@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "platform": "ios",
+  "bundleId": "io.github.linglin.xhtool",
+  "versionName": "0.2.15",
+  "versionCode": 25,
+  "releaseNotes": "B100 分享图采用紧凑五列，支持黑白样式和超清原图。"
+}
