@@ -1,12 +1,10 @@
 # xh Tool
 
-## 最新版本 0.2.28
+## 最新版本 0.2.29
 
-- DJMAX 和 osu! 首页新增音游日报，可在 App 内阅读当期与往期资讯。
-- DJMAX 歌曲详情新增玩家标签和谱面平均分，条件随机选歌支持按常驻标签筛选。
-- 从谱面详情返回会保留抽选结果，B100 分享图对调了键位与 DJ CLASS 图标。
+- B100 分享图将总分、DJ CLASS 和入选谱面数集中到中间，右侧显示键位。
 
-[下载 Android 0.2.28](https://github.com/linglin520/xh-tool/releases/tag/v0.2.28)
+[下载 Android 0.2.29](https://github.com/linglin520/xh-tool/releases/tag/v0.2.29)
 
 xh Tool 是面向 PC 音游玩家的免费原生 Android 手机工具，目前支持 **DJMAX RESPECT V**、**osu!** 和 **白金档案（PLATiNA :: LAB）**，提供资讯、曲库、成绩查询与分享等功能。需要 Android 8.0 及以上。
 
