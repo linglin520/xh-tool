@@ -1,10 +1,10 @@
 # xh Tool
 
-## 最新版本 0.2.29
+## 最新版本 0.2.30
 
-- B100 分享图将总分、DJ CLASS 和入选谱面数集中到中间，右侧显示键位。
+- B100 满榜分享图采用更紧凑的五列排版，优化工具卡片转场和 DJMAX 曲库搜索框动效。
 
-[下载 Android 0.2.29](https://github.com/linglin520/xh-tool/releases/tag/v0.2.29)
+[下载 Android 0.2.30](https://github.com/linglin520/xh-tool/releases/tag/v0.2.30)
 
 xh Tool 是面向 PC 音游玩家的免费原生 Android 手机工具，目前支持 **DJMAX RESPECT V**、**osu!** 和 **白金档案（PLATiNA :: LAB）**，提供资讯、曲库、成绩查询与分享等功能。需要 Android 8.0 及以上。
 
