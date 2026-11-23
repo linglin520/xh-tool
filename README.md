@@ -1,10 +1,10 @@
 # xh Tool
 
-## 最新版本 0.2.30
+## 最新版本 0.2.31
 
-- B100 满榜分享图采用更紧凑的五列排版，优化工具卡片转场和 DJMAX 曲库搜索框动效。
+- B100 分享图简化页眉，段位和 DJ POWER 居中对齐。
 
-[下载 Android 0.2.30](https://github.com/linglin520/xh-tool/releases/tag/v0.2.30)
+[下载 Android 0.2.31](https://github.com/linglin520/xh-tool/releases/tag/v0.2.31)
 
 xh Tool 是面向 PC 音游玩家的免费原生 Android 手机工具，目前支持 **DJMAX RESPECT V**、**osu!** 和 **白金档案（PLATiNA :: LAB）**，提供资讯、曲库、成绩查询与分享等功能。需要 Android 8.0 及以上。
 
@@ -203,6 +203,10 @@ xh Tool 与原 DJMAX Tool 独立安装，不覆盖旧应用。若曾安装使用
 需要 Android 8.0 及以上，可覆盖同签名旧版并保留资料。
 
 
+
+## 0.2.31
+
+- B100 分享图简化页眉，段位和 DJ POWER 居中对齐。
 
 ## 0.2.30
 
@@ -1372,7 +1376,7 @@ xh Tool 是玩家工具，与游戏官方没有隶属关系。问题可通过 [G
 
 
 
-[官网](https://tool.xhhbot.com/#download)提供最新版Android APK和iOS 0.2.30 未签名 IPA，可直接下载；iOS需自行签名安装。
+[官网](https://tool.xhhbot.com/#download)提供最新版Android APK和iOS 0.2.31 未签名 IPA，可直接下载；iOS需自行签名安装。
 
 
 
@@ -1388,7 +1392,7 @@ xh Tool 是玩家工具，与游戏官方没有隶属关系。问题可通过 [G
 
 
 
-[官网下载 iOS 0.2.30（构建 40）](https://tool.xhhbot.com/#download)。IPA 需要自行签名，官网同时提供安装说明与 SHA256 摘要。
+[官网下载 iOS 0.2.31（构建 41）](https://tool.xhhbot.com/#download)。IPA 需要自行签名，官网同时提供安装说明与 SHA256 摘要。
 
 
 
