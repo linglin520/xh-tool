@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "ios",
   "bundleId": "io.github.linglin.xhtool",
-  "versionName": "0.2.32",
-  "versionCode": 42,
-  "releaseNotes": "B100 分享图可选经典圆角或紧凑直角，黑白主题可以独立切换。"
+  "versionName": "0.2.33",
+  "versionCode": 43,
+  "releaseNotes": "账号、白金档案和公共资料使用新的深圳入口。"
 }
