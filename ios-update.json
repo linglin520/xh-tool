@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "ios",
   "bundleId": "io.github.linglin.xhtool",
-  "versionName": "0.2.33",
-  "versionCode": 43,
-  "releaseNotes": "账号、白金档案和公共资料使用新的深圳入口。"
+  "versionName": "0.2.34",
+  "versionCode": 44,
+  "releaseNotes": "人机验证、密码重置和 osu! 授权使用深圳入口。"
 }
